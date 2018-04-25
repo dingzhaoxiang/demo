@@ -1,0 +1,270 @@
+2018-04-24 19:38:12,183 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 19:38:12,278 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 19:38:12,278 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 19:38:12,278 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 19:38:12,278 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 19:38:12,280 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:38:12,280 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 19:38:12,280 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 19:38:12,281 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 19:38:12,281 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 19:38:12,281 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 19:38:12,281 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 19:38:12,281 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 19:38:12,342 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 19:38:12,342 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:38:12,342 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 19:38:12,343 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:38:12,343 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 19:38:12,343 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 19:38:12,343 INFO  main                             - Readiness check result: success
+2018-04-24 19:38:12,531 INFO  RMI TCP Connection(2)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 19:38:12,531 INFO  RMI TCP Connection(2)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:38:12,531 INFO  RMI TCP Connection(2)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 19:38:12,531 INFO  RMI TCP Connection(2)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 19:38:12,531 INFO  RMI TCP Connection(2)-127.0.0.1  - SpringContext readiness check result: success.
+2018-04-24 19:39:42,767 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 19:39:42,771 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 19:39:42,771 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 19:39:42,771 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 19:39:42,771 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 19:39:42,773 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:39:42,773 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 19:39:42,773 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 19:39:42,774 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 19:39:42,774 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 19:39:42,774 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 19:39:42,775 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 19:39:42,775 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 19:39:42,838 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 19:39:42,838 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:39:42,838 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 19:39:42,839 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:39:42,839 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 19:39:42,839 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 19:39:42,839 INFO  main                             - Readiness check result: success
+2018-04-24 19:42:10,913 INFO  RMI TCP Connection(4)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 19:42:10,913 INFO  RMI TCP Connection(4)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:42:10,913 INFO  RMI TCP Connection(4)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 19:42:10,913 INFO  RMI TCP Connection(4)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 19:42:10,913 INFO  RMI TCP Connection(4)-127.0.0.1  - SpringContext readiness check result: success.
+2018-04-24 19:42:49,575 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 19:42:49,579 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 19:42:49,579 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 19:42:49,579 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 19:42:49,579 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 19:42:49,580 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:42:49,580 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 19:42:49,581 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 19:42:49,581 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 19:42:49,582 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 19:42:49,582 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 19:42:49,582 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 19:42:49,582 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 19:42:49,705 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 19:42:49,705 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:42:49,705 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 19:42:49,706 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:42:49,706 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 19:42:49,706 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 19:42:49,706 INFO  main                             - Readiness check result: success
+2018-04-24 19:42:59,911 INFO  RMI TCP Connection(7)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 19:42:59,912 INFO  RMI TCP Connection(7)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:42:59,912 INFO  RMI TCP Connection(7)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 19:42:59,912 INFO  RMI TCP Connection(7)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 19:42:59,912 INFO  RMI TCP Connection(7)-127.0.0.1  - SpringContext readiness check result: success.
+2018-04-24 19:43:40,376 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 19:43:40,380 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 19:43:40,381 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 19:43:40,381 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 19:43:40,381 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 19:43:40,382 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:43:40,382 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 19:43:40,382 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 19:43:40,383 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 19:43:40,384 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 19:43:40,384 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 19:43:40,384 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 19:43:40,384 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 19:43:40,447 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 19:43:40,447 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:43:40,447 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 19:43:40,448 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:43:40,448 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 19:43:40,448 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 19:43:40,448 INFO  main                             - Readiness check result: success
+2018-04-24 19:43:40,942 INFO  RMI TCP Connection(8)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 19:43:40,942 INFO  RMI TCP Connection(8)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:43:40,942 INFO  RMI TCP Connection(8)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 19:43:40,942 INFO  RMI TCP Connection(8)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 19:43:40,942 INFO  RMI TCP Connection(8)-127.0.0.1  - SpringContext readiness check result: success.
+2018-04-24 19:47:54,211 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 19:47:54,216 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 19:47:54,216 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 19:47:54,216 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 19:47:54,216 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 19:47:54,218 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:47:54,218 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 19:47:54,218 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 19:47:54,219 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 19:47:54,219 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 19:47:54,220 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 19:47:54,220 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 19:47:54,220 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 19:47:54,295 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 19:47:54,295 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:47:54,295 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 19:47:54,296 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:47:54,296 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 19:47:54,296 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 19:47:54,296 INFO  main                             - Readiness check result: success
+2018-04-24 19:47:54,550 INFO  RMI TCP Connection(2)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 19:47:54,550 INFO  RMI TCP Connection(2)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:47:54,550 INFO  RMI TCP Connection(2)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 19:47:54,550 INFO  RMI TCP Connection(2)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 19:47:54,550 INFO  RMI TCP Connection(2)-127.0.0.1  - SpringContext readiness check result: success.
+2018-04-24 19:53:07,654 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 19:53:07,657 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 19:53:07,657 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 19:53:07,657 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 19:53:07,657 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 19:53:07,658 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:53:07,658 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 19:53:07,659 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 19:53:07,659 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 19:53:07,660 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 19:53:07,660 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 19:53:07,660 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 19:53:07,660 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 19:53:08,555 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 19:53:08,555 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:53:08,555 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 19:53:08,556 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:53:08,556 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 19:53:08,556 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 19:53:08,556 INFO  main                             - Readiness check result: success
+2018-04-24 19:53:08,792 INFO  RMI TCP Connection(9)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 19:53:08,792 INFO  RMI TCP Connection(9)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:53:08,792 INFO  RMI TCP Connection(9)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 19:53:08,792 INFO  RMI TCP Connection(9)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 19:53:08,792 INFO  RMI TCP Connection(9)-127.0.0.1  - SpringContext readiness check result: success.
+2018-04-24 19:54:42,737 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 19:54:42,740 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 19:54:42,741 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 19:54:42,741 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 19:54:42,741 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 19:54:42,742 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:54:42,742 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 19:54:42,742 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 19:54:42,743 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 19:54:42,743 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 19:54:42,743 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 19:54:42,743 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 19:54:42,743 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 19:54:42,809 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 19:54:42,809 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:54:42,809 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 19:54:42,810 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 19:54:42,810 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 19:54:42,810 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 19:54:42,810 INFO  main                             - Readiness check result: success
+2018-04-24 19:54:43,397 INFO  RMI TCP Connection(7)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 19:54:43,397 INFO  RMI TCP Connection(7)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 19:54:43,397 INFO  RMI TCP Connection(7)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 19:54:43,397 INFO  RMI TCP Connection(7)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 19:54:43,397 INFO  RMI TCP Connection(7)-127.0.0.1  - SpringContext readiness check result: success.
+2018-04-24 20:10:22,923 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 20:10:22,927 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 20:10:22,927 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 20:10:22,927 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 20:10:22,927 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 20:10:22,928 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 20:10:22,928 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 20:10:22,928 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 20:10:22,929 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 20:10:22,930 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 20:10:22,930 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 20:10:22,930 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 20:10:22,930 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 20:10:23,869 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 20:10:23,869 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 20:10:23,869 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 20:10:23,870 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 20:10:23,870 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 20:10:23,870 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 20:10:23,870 INFO  main                             - Readiness check result: success
+2018-04-24 20:10:24,320 INFO  RMI TCP Connection(8)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 20:10:24,320 INFO  RMI TCP Connection(8)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 20:10:24,320 INFO  RMI TCP Connection(8)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 20:10:24,320 INFO  RMI TCP Connection(8)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 20:10:24,320 INFO  RMI TCP Connection(8)-127.0.0.1  - SpringContext readiness check result: success.
+2018-04-24 20:21:01,534 INFO  main                             - 
+Found 1 SOFABoot component health checkers:
+class com.alipay.sofa.runtime.spring.health.ComponentHealthChecker
+Found 1 HealthIndicator checkers:
+class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator
+
+2018-04-24 20:21:01,537 INFO  main                             - Begin first phase of the readiness check
+2018-04-24 20:21:01,537 INFO  main                             - Begin SpringContext readiness check.
+2018-04-24 20:21:01,537 INFO  main                             - SpringContext readiness check result: success.
+2018-04-24 20:21:01,537 INFO  main                             - Begin SOFABoot component readiness check.
+2018-04-24 20:21:01,539 INFO  main                             - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 20:21:01,539 INFO  main                             - SOFABoot component readiness check result: success.
+2018-04-24 20:21:01,539 INFO  main                             - Begin HealthIndicator readiness check.
+2018-04-24 20:21:01,540 INFO  main                             - HealthIndicator (class org.springframework.boot.actuate.health.DiskSpaceHealthIndicator)check success.
+2018-04-24 20:21:01,540 INFO  main                             - Readiness check HealthIndicator result: success.
+2018-04-24 20:21:01,540 INFO  main                             - first phase of the readiness check result: success
+2018-04-24 20:21:01,540 INFO  main                             - Begin second phase of the readiness check
+2018-04-24 20:21:01,540 INFO  main                             - Begin SofaBootMiddlewareAfterReadinessCheckCallback readiness check
+2018-04-24 20:21:01,599 INFO  main                             - SOFABoot middleware after readiness check callback(class com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback) ]success.
+2018-04-24 20:21:01,599 INFO  main                             - SofaBootMiddlewareAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 20:21:01,599 INFO  main                             - Begin SofaBootAfterReadinessCheckCallback readiness check
+2018-04-24 20:21:01,600 INFO  main                             - SofaBootAfterReadinessCheckCallback readiness check result: success.
+2018-04-24 20:21:01,600 INFO  main                             - SOFABoot readiness check callback : success.
+2018-04-24 20:21:01,600 INFO  main                             - second phase of the readiness check result: success
+2018-04-24 20:21:01,600 INFO  main                             - Readiness check result: success
+2018-04-24 20:21:02,220 INFO  RMI TCP Connection(2)-127.0.0.1  - Begin SOFABoot component readiness check.
+2018-04-24 20:21:02,220 INFO  RMI TCP Connection(2)-127.0.0.1  - component readiness check success. component name[RUNTIME-COMPONENT]; no retry.
+2018-04-24 20:21:02,220 INFO  RMI TCP Connection(2)-127.0.0.1  - SOFABoot component readiness check result: success.
+2018-04-24 20:21:02,220 INFO  RMI TCP Connection(2)-127.0.0.1  - Begin SpringContext readiness check.
+2018-04-24 20:21:02,220 INFO  RMI TCP Connection(2)-127.0.0.1  - SpringContext readiness check result: success.

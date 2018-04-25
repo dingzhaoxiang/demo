@@ -1,0 +1,3 @@
+2018-04-25 09:05:57,185 INFO  main                             com.alipay.sofa.rpc.client.AllConnectConnectionHolder - Add provider of com.example.demo.HelloSyncService, size is : 1
+2018-04-25 09:05:59,376 WARN  CLI-CONN-com.example.demo.HelloSyncService-4-T1 com.alipay.sofa.rpc.client.AllConnectConnectionHolder - com.example.demo.HelloSyncService
+2018-04-25 09:06:02,132 INFO  main                             com.alipay.sofa.rpc.client.aft.FaultToleranceConfigManager - Get a new resource, value[FaultToleranceConfig{timeWindow=10, leastCallCount=100, leastWindowCount=10, leastWindowExceptionRateMultiple=6.0, regulationEffective=false, weightDegradeRate=0.05, degradeEffective=false, degradeLeastWeight=1, weightRecoverRate=2.0, degradeMaxIpCount=2}]

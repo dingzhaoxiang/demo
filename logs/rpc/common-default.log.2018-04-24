@@ -1,0 +1,36 @@
+2018-04-24 19:38:08,317 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:5328
+2018-04-24 19:38:08,327 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 19:38:08,337 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 19:38:11,062 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl
+2018-04-24 19:39:38,282 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:9104
+2018-04-24 19:39:38,294 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 19:39:38,305 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 19:39:41,177 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl
+2018-04-24 19:42:45,039 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:3076
+2018-04-24 19:42:45,051 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 19:42:45,064 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 19:42:47,988 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl
+2018-04-24 19:43:35,972 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:8000
+2018-04-24 19:43:35,984 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 19:43:35,996 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 19:43:38,857 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl
+2018-04-24 19:47:49,714 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:5276
+2018-04-24 19:47:49,728 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 19:47:49,740 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 19:47:52,656 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl
+2018-04-24 19:53:05,588 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:3192
+2018-04-24 19:53:05,597 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 19:53:05,608 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 19:53:06,600 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl
+2018-04-24 19:54:38,668 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:6592
+2018-04-24 19:54:38,678 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 19:54:38,687 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 19:54:41,539 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl
+2018-04-24 20:10:20,757 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:3664
+2018-04-24 20:10:20,767 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 20:10:20,776 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 20:10:21,810 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl
+2018-04-24 20:20:57,681 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.3.1_20180419005237, PID is:3328
+2018-04-24 20:20:57,691 INFO  main                             - Install Module: fault-tolerance
+2018-04-24 20:20:57,701 INFO  main                             - Refer consumer config : bolt://com.example.demo.HelloSyncService: with bean id helloSyncServiceReference
+2018-04-24 20:21:00,476 INFO  main                             - Export provider config : com.example.demo.HelloSyncService: with bean id helloSyncServiceImpl

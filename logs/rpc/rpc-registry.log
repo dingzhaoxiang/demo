@@ -1,0 +1,8 @@
+2018-04-25 09:04:34,151 INFO  main                             com.alipay.sofa.rpc.registry.zk.ZookeeperRegistry - Init ZookeeperRegistry with address 127.0.0.1:2181, root path is /. preferLocalFile:true, ephemeralNode:true
+2018-04-25 09:05:57,183 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistryHelper - Load backup file from C:\Users\Administrator\localFileRegistry\localRegistry.reg
+2018-04-25 09:06:02,314 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistryHelper - Load backup file from C:\Users\Administrator\localFileRegistry\localRegistry.reg
+2018-04-25 09:06:02,317 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistry - RPC-00205: RPC 服务[com.example.demo.HelloSyncService:1.0@DEFAULT]发布开始 
+2018-04-25 09:06:02,317 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistry - RPC-00201: 发布 RPC 服务：服务名[com.example.demo.HelloSyncService:1.0@DEFAULT] 
+2018-04-25 09:06:02,350 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistryHelper - Write backup file to C:\Users\Administrator\localFileRegistry\localRegistry.reg
+2018-04-25 09:06:02,353 INFO  main                             com.alipay.sofa.rpc.registry.local.LocalRegistry - RPC-00206: RPC 服务[com.example.demo.HelloSyncService:1.0@DEFAULT]发布结束 
+2018-04-25 09:06:03,186 INFO  LocalRegistry-Back-Load-3-T1     com.alipay.sofa.rpc.registry.local.LocalRegistryHelper - Load backup file from C:\Users\Administrator\localFileRegistry\localRegistry.reg

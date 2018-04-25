@@ -1,0 +1,27 @@
+2018-04-24 19:38:08,495 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:38:10,179 WARN  [RpcConnectionFactory#198] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] Create connection to 169.254.0.64:22000 error!
+2018-04-24 19:38:12,313 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:39:38,474 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:39:40,213 WARN  [RpcConnectionFactory#198] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] Create connection to 169.254.0.64:22000 error!
+2018-04-24 19:39:42,806 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:42:08,022 WARN  [RpcHeartBeatProcessor#83] [Bolt-default-executor-3-thread-8] Cannot find heartbeat InvokeFuture, maybe already timeout. Id=3, From 169.254.0.64:22000
+2018-04-24 19:42:08,023 WARN  [RpcHeartBeatProcessor#83] [Bolt-default-executor-3-thread-10] Cannot find heartbeat InvokeFuture, maybe already timeout. Id=4, From 169.254.0.64:22000
+2018-04-24 19:42:45,282 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:42:47,010 WARN  [RpcConnectionFactory#198] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] Create connection to 169.254.0.64:22000 error!
+2018-04-24 19:42:49,618 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:43:36,168 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:43:37,892 WARN  [RpcConnectionFactory#198] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] Create connection to 169.254.0.64:22000 error!
+2018-04-24 19:43:40,416 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:47:49,934 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:47:51,697 WARN  [RpcConnectionFactory#198] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] Create connection to 169.254.0.64:22000 error!
+2018-04-24 19:47:54,259 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:53:07,883 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:53:08,592 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:54:39,021 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 19:54:40,729 WARN  [RpcConnectionFactory#198] [CLI-CONN-com.example.demo.HelloSyncService-3-T1] Create connection to 169.254.0.64:22000 error!
+2018-04-24 19:54:42,781 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 20:10:23,184 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 20:10:23,906 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 20:20:58,011 WARN  [RpcConnectionFactory#235] [CLI-CONN-com.example.demo.HelloSyncService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2018-04-24 20:20:59,703 WARN  [RpcConnectionFactory#198] [CLI-CONN-com.example.demo.HelloSyncService-3-T1] Create connection to 169.254.0.64:22000 error!
+2018-04-24 20:21:01,573 WARN  [RpcServer#874] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes

@@ -1,0 +1,81 @@
+2018-04-24 19:38:08,269 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 19:38:08,269 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:38:10,185 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:38:11,055 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 19:38:11,056 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:38:11,059 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:38:11,059 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:38:11,072 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:38:11,072 INFO  main                             - Register Service - com.example.demo.HelloSyncService
+2018-04-24 19:39:38,238 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 19:39:38,239 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:39:40,225 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:39:41,170 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 19:39:41,170 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:39:41,173 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:39:41,173 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:39:41,187 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:39:41,187 INFO  main                             - Register Service - com.example.demo.HelloSyncService
+2018-04-24 19:42:44,992 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 19:42:44,993 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:42:47,021 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:42:47,981 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 19:42:47,982 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:42:47,985 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:42:47,985 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:42:47,998 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:42:47,998 INFO  main                             - Register Service - com.example.demo.HelloSyncService
+2018-04-24 19:43:35,928 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 19:43:35,928 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:43:37,904 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:43:38,850 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 19:43:38,850 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:43:38,854 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:43:38,854 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:43:38,866 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:43:38,866 INFO  main                             - Register Service - com.example.demo.HelloSyncService
+2018-04-24 19:47:49,663 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 19:47:49,663 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:47:51,709 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:47:52,649 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 19:47:52,649 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:47:52,652 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:47:52,653 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:47:52,665 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:47:52,666 INFO  main                             - Register Service - com.example.demo.HelloSyncService
+2018-04-24 19:53:05,546 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 19:53:05,547 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:53:05,808 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:53:06,594 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 19:53:06,594 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:53:06,597 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:53:06,597 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:53:06,629 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:53:06,629 INFO  main                             - Register Service - com.example.demo.HelloSyncService
+2018-04-24 19:54:38,627 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 19:54:38,628 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:54:40,735 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:54:41,532 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 19:54:41,533 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:54:41,536 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:54:41,536 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 19:54:41,548 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 19:54:41,549 INFO  main                             - Register Service - com.example.demo.HelloSyncService
+2018-04-24 20:10:20,719 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 20:10:20,719 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 20:10:20,969 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 20:10:21,804 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 20:10:21,804 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 20:10:21,807 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 20:10:21,807 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 20:10:21,837 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 20:10:21,837 INFO  main                             - Register Service - com.example.demo.HelloSyncService
+2018-04-24 20:20:57,642 INFO  main                             - Registering component: reference:com.example.demo.HelloSyncService:#349885947
+2018-04-24 20:20:57,642 INFO  main                             -  >>In Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 20:20:59,709 INFO  main                             -  >>In Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 20:21:00,470 INFO  main                             - Registering component: service:com.example.demo.HelloSyncService
+2018-04-24 20:21:00,470 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 20:21:00,473 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 20:21:00,473 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.demo.HelloSyncService.
+2018-04-24 20:21:00,483 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.demo.HelloSyncService.
+2018-04-24 20:21:00,483 INFO  main                             - Register Service - com.example.demo.HelloSyncService
